@@ -1,4 +1,4 @@
 ## MosaicFreeCloud
-This repository is part of the paper: Indicator-based assessment of post-fire recovery dynamics using satellite NDVI time-series (submitted to Ecological Indicators)
+This repository is part of the paper: Improving tropical deforestation detection through using Photosynthetic vegetation time series – (PVts-β) (submitted to Ecological Indicators)
+## Description
 
-Using MosaicFreeCloud we can generate images of cloud-free satellite.
