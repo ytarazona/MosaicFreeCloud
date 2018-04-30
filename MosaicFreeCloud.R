@@ -1,6 +1,6 @@
 #' MosaicFreeCloud
 #' 
-#' @author Yonatan Tarazona Coronel
+#' @author Yonatan Tarazona, Vasco M. Mantas, A.J.S.C. Pereira
 #' 
 #' @description MasaicFreeCloud is an algorithm for the generation of cloud-free images through an indeterminate number of optical images of a single band.  
 #' 
