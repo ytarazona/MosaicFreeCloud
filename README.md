@@ -1,5 +1,6 @@
 ## MosaicFreeCloud algorithm
 This repository is part of the paper: Improving tropical deforestation detection through using Photosynthetic vegetation time series – (PVts-β) (submitted to Ecological Indicators)
+By Yonatan Tarazonaa, Vasco M. Mantas, A.J.S.C. Pereira
 ## Description
 This script called "MosaicFreeCloud" generates cloud-free mosaics from more than two images from different satellite sensors (e.g., Landsat, MODIS). The names of the images that enter the script must have the following form: L8003069_20170919_NDVI.tif.
 
