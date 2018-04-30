@@ -8,5 +8,7 @@ This script called "MosaicFreeCloud" generates cloud-free mosaics from more than
 Where,
 L8: are the initials of the sensor.
 003069: They are the path and row of the Landsat scene.
+
 20170919: it is the date of acquisition of the image. In this example it is an image of September 19, 2017.
+
 NDVI: is a name of the type of variable that we are processing.
